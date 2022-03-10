@@ -10,11 +10,10 @@
 [![twitter](./assets/img/twitter-light.svg)](https://twitter.com/Evin_Tone#gh-light-mode-only)
 [![twitter](./assets/img/twitter-dark.svg)](https://twitter.com/Evin_Tone#gh-dark-mode-only)
 
----
 ## 🎓 I'm a fullstack developer.
 - 🔭 I’m currently practicing algorithm patterns in Javascript
-- 🌱 I’m currently learning Flutter
-- 👯 I’m actively looking for new opportunities in React.
+- 🌱 I’m currently learning React.
+- 👯 I’m actively looking for new opportunities.
 - 💬 Ask me about Laravel / Python / MySQL / React.js
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/evingtone-ngoa)
 
@@ -50,7 +49,7 @@
 [![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-
+<!-- Key -->
 [website]: https://evin.me.ke
 [twitter]: https://twitter.com/Evin_Tone
 [linkedin]: https://www.linkedin.com/in/evingtone-ngoa
