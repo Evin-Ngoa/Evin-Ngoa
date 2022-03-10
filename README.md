@@ -40,7 +40,7 @@
 
 ## 🏆 GitHub Stats
 <!-- Light Theme -->
-[![Evin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evin-Ngoa&count_private=true&hide=contribs)](https://github.com/Evin-Ngoa/github-readme-stats)
+[![Evin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evin-Ngoa&count_private=true&hide=contribs&show_icons=true)](https://github.com/Evin-Ngoa/github-readme-stats)
 
 <!-- Dark Theme -->
 <details>
