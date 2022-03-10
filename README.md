@@ -45,14 +45,12 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Evin-Ngoa&theme=vue)
 
-![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/solarized/0-profile-details.svg)
-![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/solarized/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/solarized/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/solarized/3-stats.svg)
-![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/solarized/4-productive-time.svg)
-
-
-
 [![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
+[website]: https://evin.me.ke
+[twitter]: https://twitter.com/Evin_Tone
+[linkedin]: https://www.linkedin.com/in/evingtone-ngoa
