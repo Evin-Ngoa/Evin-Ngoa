@@ -39,6 +39,15 @@
 ---
 
 ## 🏆 GitHub Stats
+[![Evin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evin-Ngoa)](https://github.com/Evin-Ngoa/github-readme-stats)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Evin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Evin-Ngoa&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
 [![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
