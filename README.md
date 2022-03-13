@@ -42,8 +42,6 @@
 [![Evin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evin-Ngoa&count_private=true&hide=contribs&show_icons=true)](https://github.com/Evin-Ngoa/github-readme-stats)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Evin-Ngoa&theme=vue)
-
 [![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Evin-Ngoa/Evin-Ngoa/main/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
