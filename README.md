@@ -12,7 +12,7 @@
 
 ## 🎓 I'm a fullstack developer.
 - 🔭 I’m currently practicing algorithm patterns in Javascript
-- 🌱 I’m currently learning React and nodeJs.
+- 🌱 I’m currently learning React and NodeJs.
 - 👯 I’m actively looking for new opportunities.
 - 💬 Ask me about Laravel / PHP / MySQL / React.js
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/evingtone-ngoa)
