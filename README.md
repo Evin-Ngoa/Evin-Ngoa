@@ -11,7 +11,7 @@
 [![twitter](./assets/img/twitter-dark.svg)](https://twitter.com/Evin_Tone#gh-dark-mode-only)
 
 ## 🎓 I'm a fullstack developer.
-- 🔭 I’m currently practicing algorithm patterns in Javascript
+- 🔭 I’m currently practicing algorithm patterns in Javascript & microservices
 - 🌱 Green belt in React and Yellow belt in NodeJs.
 - 👯 I’m actively looking for new opportunities.
 - 💬 Ask me about Laravel / PHP / MySQL / React.js
