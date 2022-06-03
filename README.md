@@ -1,4 +1,4 @@
-## Hello, I'm Evingtone aka [Evin][portfolio] <img src="https://github.com/Evin-Ngoa/Evin-Ngoa/blob/main/assets/wave.gif" align="top" width="30px">
+## Hello, I'm Evingtone aka [Evin][portfolio] <img src="https://github.com/Evin-Ngoa/Evin-Ngoa/blob/main/assets/wave.gif" align="top" width="30">
 <img src="https://komarev.com/ghpvc/?username=Evin-Ngoa&label=Profile Views&color=blue&style=flat" alt="Evin-Ngoa" />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Evin_Tone?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FEvin-Ngoa&screen_name=Evin_Tone)
