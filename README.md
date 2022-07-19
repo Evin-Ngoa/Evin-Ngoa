@@ -13,7 +13,6 @@
 ## 🎓 I'm a fullstack developer.
 - 🔭 I’m currently practicing algorithm patterns in Javascript & microservices
 - 🌱 Green belt in React and Yellow belt in NodeJs.
-- 👯 I’m actively looking for new opportunities.
 - 💬 Ask me about Laravel / PHP / MySQL / React.js
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/evingtone-ngoa)
 
