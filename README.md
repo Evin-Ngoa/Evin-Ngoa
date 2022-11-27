@@ -11,7 +11,7 @@
 [![twitter](./assets/img/twitter-dark.svg)](https://twitter.com/Evin_Tone#gh-dark-mode-only)
 
 ## 🎓 I'm a fullstack developer.
-- 🔭 I’m currently practicing algorithm patterns in Javascript, Cloud Services (AWS & Azure) and Core Banking.
+- 🔭 I’m currently practicing algorithm patterns in Javascript, learning Cloud Services (AWS & Azure) and Core Banking.
 - 🌱 Green belt in React and Yellow belt in NodeJs.
 - 💬 Ask me about Spring / Laravel / PHP / MySQL / React.js / Angular / Microservices
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/evingtone-ngoa)
